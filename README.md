@@ -1,0 +1,1 @@
+# Simple Selenium Project template
